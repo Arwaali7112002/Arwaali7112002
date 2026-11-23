@@ -74,36 +74,23 @@
 
 ## 🚀 Featured Projects
 
-- **ArchiQ — AI-Powered Legal Practice Management Platform** *(ITI Graduation Project)*[cite: 4]
-  - Full-stack legal management platform built with **ASP.NET Core**, **Angular**, **SQL Server**, **EF Core**, **RAG**, **LLMs**, **OCR**, **Azure Blob Storage**, **Qdrant**, and **Google Gemini**[cite: 4].
+- **ArchiQ — AI-Powered Legal Practice Management Platform** *(ITI Graduation Project)*
+  - Full-stack legal management platform built with **ASP.NET Core**, **Angular**, **SQL Server**, **EF Core**, **RAG**, **LLMs**, **OCR**, **Azure Blob Storage**, **Qdrant**, and **Google Gemini**.
   - Features document OCR & indexing, RAG-based case Q&A, contract comparison, smart case summarization, hearing date extraction, and legal draft generation[cite: 4].
 
-- **Architectural Curator-Commerce Platform**[cite: 4]
-  - Multi-role e-commerce platform using **ASP.NET Web API**, **Angular**, **EF Core**, **SQL Server**, and **JWT** with product/order management, admin dashboard, and role-based authorization[cite: 4].
+- **Architectural Curator-Commerce Platform**
+  - Multi-role e-commerce platform using **ASP.NET Web API**, **Angular**, **EF Core**, **SQL Server**, and **JWT** with product/order management, admin dashboard, and role-based authorization.
 
-- **TeamFlow — Collaborative Project Management System**[cite: 4]
-  - Real-time project management system built with **ASP.NET MVC**, **EF Core**, **SQL Server**, and **SignalR**, featuring role-based authentication, task management, notifications, and team analytics[cite: 4].
+- **TeamFlow — Collaborative Project Management System**
+  - Real-time project management system built with **ASP.NET MVC**, **EF Core**, **SQL Server**, and **SignalR**, featuring role-based authentication, task management, notifications, and team analytics.
 
-- **NutriGuide — AI-Powered Nutrition Assistant** *(EELU Graduation Project — A+ Grade)*[cite: 5]
-  - AI nutrition app using **Flutter**, **Django**, **Python**, **Deep Learning**, **Machine Learning**, and an AI chatbot for food analysis, diet recommendations, and health tracking[cite: 5].
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arwaali7112002&show_icons=true&theme=tokyonight" alt="Arwa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arwaali7112002&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arwaali7112002&theme=tokyonight" alt="GitHub Streak" />
-</p>
+- **NutriGuide — AI-Powered Nutrition Assistant** *(EELU Graduation Project — A+ Grade)*
+  - AI nutrition app using **Flutter**, **Django**, **Python**, **Deep Learning**, **Machine Learning**, and an AI chatbot for food analysis, diet recommendations, and health tracking.
 
 ---
 
 ## 💼 Experience & Training Highlights
 
-- **Freelancer @ Mostaql:** Built a responsive, interactive organizational chart web page using **OrgChart.js** tailored to institutional branding and easy updates[cite: 5].
-- **Technical Instructor @ iSchool:** DECI Technical Instructor (4th Intake, offline sessions) & DEMI Engagement Sessions (September 2026)[cite: 5].
-- **9-Month Diploma (PTP) @ ITI:** Professional Development & BI-infused CRM track[cite: 4].
+- **Freelancer @ Mostaql:** Built a responsive, interactive organizational chart web page using **OrgChart.js** tailored to institutional branding and easy updates.
+- **Technical Instructor @ iSchool:** DECI Technical Instructor (4th Intake, offline sessions) & DEMI Engagement Sessions (September 2026).
+- **9-Month Diploma (PTP) @ ITI:** Professional Development & BI-infused CRM track.
