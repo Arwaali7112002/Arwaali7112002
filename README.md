@@ -30,10 +30,10 @@
     }
 }</code></pre>
 
-- 🎓 **Education:** Bachelor of Computers and Information Technology (AI) @ **EELU** (GPA: 3.74/4.00, Honors) & 9-Month Professional Training Program (PTP) @ **ITI**[cite: 4].
-- 💻 **Focus:** Building scalable full-stack web applications with **ASP.NET Core**, **Angular**, **Entity Framework Core**, and **SQL Server**[cite: 4].
-- 🤖 **AI & Integration:** Experienced in integrating AI capabilities (RAG, LLMs, OCR, ML/DL) into practical systems[cite: 4, 5].
-- 📍 **Location:** Egypt[cite: 4].
+- 🎓 **Education:** Bachelor of Computers and Information Technology (AI) @ **EELU** (GPA: 3.74/4.00, Honors) & 9-Month Professional Training Program (PTP) @ **ITI**.
+- 💻 **Focus:** Building scalable full-stack web applications with **ASP.NET Core**, **Angular**, **Entity Framework Core**, and **SQL Server**.
+- 🤖 **AI & Integration:** Experienced in integrating AI capabilities (RAG, LLMs, OCR, ML/DL) into practical systems.
+- 📍 **Location:** Egypt.
 
 ---
 
