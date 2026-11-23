@@ -76,7 +76,7 @@
 
 - **ArchiQ — AI-Powered Legal Practice Management Platform** *(ITI Graduation Project)*
   - Full-stack legal management platform built with **ASP.NET Core**, **Angular**, **SQL Server**, **EF Core**, **RAG**, **LLMs**, **OCR**, **Azure Blob Storage**, **Qdrant**, and **Google Gemini**.
-  - Features document OCR & indexing, RAG-based case Q&A, contract comparison, smart case summarization, hearing date extraction, and legal draft generation[cite: 4].
+  - Features document OCR & indexing, RAG-based case Q&A, contract comparison, smart case summarization, hearing date extraction, and legal draft generation.
 
 - **Architectural Curator-Commerce Platform**
   - Multi-role e-commerce platform using **ASP.NET Web API**, **Angular**, **EF Core**, **SQL Server**, and **JWT** with product/order management, admin dashboard, and role-based authorization.
